@@ -1,16 +1,16 @@
 # Matlab_basic
 **This files are format ".mlx" --> MATLAB Live Editor**
-Task 14 - a function calculating the hypotenuse c of a right-angled triangle and the angle it creates with side b (in degrees).
-Task 15 - a function calculating the area and circumference of a circle. The function takes the radius of the circle as input parameter.
+#Task 14 - a function calculating the hypotenuse c of a right-angled triangle and the angle it creates with side b (in degrees)
+Task 15 - a function calculating the area and circumference of a circle. The function takes the radius of the circle as input parameter
 Task 16:
-     a - the graph of a certain function in a given interval.
+     a - the graph of a certain function in a given interval
      b - a new graph containing the graph of the function from task 14a and the graph of the function 𝑦 = sin(𝑥∙𝜋)/2.
-     c,d,f - modifications.
-Task 17 - three graphs in one window.
-Task 19 - the sine and cosine functions for 𝑥𝜖〈−3; 3〉 on two subplots.
-Task 21 - a linear 3D graph of a function.
-Task 22 - a 3D graph of the function 𝑧 = 𝑒^(−𝑥^2−𝑦^2). The grid covers the range <-2; 2> with a step of 0.1.
-Task 23 - creating 3D figures using a script.
+     c,d,f - modifications
+Task 17 - three graphs in one window
+Task 19 - the sine and cosine functions for 𝑥𝜖〈−3; 3〉 on two subplots
+Task 21 - a linear 3D graph of a function
+Task 22 - a 3D graph of the function 𝑧 = 𝑒^(−𝑥^2−𝑦^2). The grid covers the range <-2; 2> with a step of 0.1
+Task 23 - creating 3D figures using a script
 Task 24 - a function that takes two numbers a and b and then displays the message 'Number a is smaller', 'Number b is smaller' or 'Numbers are equal'.
 Task 25 - a function that calculates the area of a rectangle. It has been supplemented with input data control, i.e., if one of the sides is negative, the calculations will not be performed, and the result returned will be 0.
 Task 26 - a function that, based on the values of coefficients a, b, and c, determines how many real roots the equation ax^2+bx+c has and gives their values.
