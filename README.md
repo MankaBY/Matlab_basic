@@ -1,6 +1,6 @@
 # Matlab_basic
 **This files are format ".mlx" --> MATLAB Live Editor**
-#Task 14 - a function calculating the hypotenuse c of a right-angled triangle and the angle it creates with side b (in degrees)
+# Task 14 - a function calculating the hypotenuse c of a right-angled triangle and the angle it creates with side b (in degrees)
 Task 15 - a function calculating the area and circumference of a circle. The function takes the radius of the circle as input parameter
 Task 16:
      a - the graph of a certain function in a given interval
